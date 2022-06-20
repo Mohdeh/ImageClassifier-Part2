@@ -6,5 +6,4 @@ For the following examples, we assume we have a file called orchid.jpg in a fold
 
 ### Basic usage:
 
-$ python predict.py ./test_images/orchid.jpg mohsen_trained_model.h5
-
+$ python predict.py ./test_images/wild_pansy.jpg mohsen_trained_model.h5
